@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-09-21T19:08:59+09:00</updated><id>/</id><title type="html">СТУЛЬЯ</title><subtitle>Небольшой выбор специально разработанных моделей стульев и столов.</subtitle><entry><title type="html">Markup: HTML Tags and Formatting</title><link href="/markup-html-tags-and-formatting/" rel="alternate" type="text/html" title="Markup: HTML Tags and Formatting" /><published>2013-01-11T00:00:00+09:00</published><updated>2013-01-11T00:00:00+09:00</updated><id>/markup-html-tags-and-formatting</id><content type="html" xml:base="/markup-html-tags-and-formatting/">&lt;p&gt;A variety of common markup showing how the theme styles them.&lt;/p&gt;
+
+&lt;h1 id=&quot;header-one&quot;&gt;Header one&lt;/h1&gt;
+
+&lt;h2 id=&quot;header-two&quot;&gt;Header two&lt;/h2&gt;
+
+&lt;h3 id=&quot;header-three&quot;&gt;Header three&lt;/h3&gt;
+
+&lt;h4 id=&quot;header-four&quot;&gt;Header four&lt;/h4&gt;
+
+&lt;h5 id=&quot;header-five&quot;&gt;Header five&lt;/h5&gt;
+
+&lt;h6 id=&quot;header-six&quot;&gt;Header six&lt;/h6&gt;
+
+&lt;h2 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h2&gt;
+
+&lt;p&gt;Single line blockquote:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Stay hungry. Stay foolish.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Multi line blockquote with a cite reference:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p class=&quot;small&quot;&gt;&lt;cite&gt;Steve Jobs&lt;/cite&gt; — Apple Worldwide Developers’ Conference, 1997&lt;/p&gt;
+
+&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Employee&lt;/th&gt;
+      &lt;th&gt;Salary&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;#&quot;&gt;John Doe&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;$1&lt;/td&gt;
+      &lt;td&gt;Because that’s all Steve Jobs needed for a salary.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;#&quot;&gt;Jane Doe&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;$100K&lt;/td&gt;
+      &lt;td&gt;For all the blogging she does.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;#&quot;&gt;Fred Bloggs&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;$100M&lt;/td&gt;
+      &lt;td&gt;Pictures are worth a thousand words, right? So Jane × 1,000.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;#&quot;&gt;Jane Bloggs&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;$100B&lt;/td&gt;
+      &lt;td&gt;With hair like that?! Enough said.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Header1&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Header2&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Header3&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell2&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell5&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell6&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell2&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell5&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell6&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tfoot&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foot1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Foot2&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Foot3&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tfoot&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;definition-lists&quot;&gt;Definition Lists&lt;/h2&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;Definition List Title&lt;/dt&gt;
+  &lt;dd&gt;Definition list division.&lt;/dd&gt;
+  &lt;dt&gt;Startup&lt;/dt&gt;
+  &lt;dd&gt;A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.&lt;/dd&gt;
+  &lt;dt&gt;#dowork&lt;/dt&gt;
+  &lt;dd&gt;Coined by Rob Dyrdek and his personal body guard Christopher “Big Black” Boykins, “Do Work” works as a self motivator, to motivating your friends.&lt;/dd&gt;
+  &lt;dt&gt;Do It Live&lt;/dt&gt;
+  &lt;dd&gt;I’ll let Bill O’Reilly &lt;a href=&quot;https://www.youtube.com/watch?v=O_HyZ5aW76c&quot; title=&quot;We'll Do It Live&quot;&gt;explain&lt;/a&gt; this one.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h2 id=&quot;unordered-lists-nested&quot;&gt;Unordered Lists (Nested)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;List item one
+    &lt;ul&gt;
+      &lt;li&gt;List item one
+        &lt;ul&gt;
+          &lt;li&gt;List item one&lt;/li&gt;
+          &lt;li&gt;List item two&lt;/li&gt;
+          &lt;li&gt;List item three&lt;/li&gt;
+          &lt;li&gt;List item four&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;List item two&lt;/li&gt;
+      &lt;li&gt;List item three&lt;/li&gt;
+      &lt;li&gt;List item four&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;List item two&lt;/li&gt;
+  &lt;li&gt;List item three&lt;/li&gt;
+  &lt;li&gt;List item four&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ordered-list-nested&quot;&gt;Ordered List (Nested)&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;List item one
+    &lt;ol&gt;
+      &lt;li&gt;List item one
+        &lt;ol&gt;
+          &lt;li&gt;List item one&lt;/li&gt;
+          &lt;li&gt;List item two&lt;/li&gt;
+          &lt;li&gt;List item three&lt;/li&gt;
+          &lt;li&gt;List item four&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;List item two&lt;/li&gt;
+      &lt;li&gt;List item three&lt;/li&gt;
+      &lt;li&gt;List item four&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;List item two&lt;/li&gt;
+  &lt;li&gt;List item three&lt;/li&gt;
+  &lt;li&gt;List item four&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;buttons&quot;&gt;Buttons&lt;/h2&gt;
+
+&lt;p&gt;Make any link standout more when applying the &lt;code class=&quot;highlighter-rouge&quot;&gt;.button&lt;/code&gt; class.&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;button&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Button&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;button&quot;&gt;Button Text&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Button Text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .button}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;html-tags&quot;&gt;HTML Tags&lt;/h2&gt;
+
+&lt;h3 id=&quot;address-tag&quot;&gt;Address Tag&lt;/h3&gt;
+
+&lt;address&gt;
+  1 Infinite Loop&lt;br /&gt; Cupertino, CA 95014&lt;br /&gt; United States
+&lt;/address&gt;
+
+&lt;h3 id=&quot;anchor-tag-aka-link&quot;&gt;Anchor Tag (aka. Link)&lt;/h3&gt;
+
+&lt;p&gt;This is an example of a &lt;a href=&quot;http://apple.com&quot; title=&quot;Apple&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;abbreviation-tag&quot;&gt;Abbreviation Tag&lt;/h3&gt;
+
+&lt;p&gt;The abbreviation &lt;abbr title=&quot;Cascading Style Sheets&quot;&gt;CSS&lt;/abbr&gt; stands for “Cascading Style Sheets”.&lt;/p&gt;
+
+&lt;h3 id=&quot;cite-tag&quot;&gt;Cite Tag&lt;/h3&gt;
+
+&lt;p&gt;“Code is poetry.” —&lt;cite&gt;Automattic&lt;/cite&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;code-tag&quot;&gt;Code Tag&lt;/h3&gt;
+
+&lt;p&gt;You will learn later on in these tests that &lt;code class=&quot;highlighter-rouge&quot;&gt;word-wrap: break-word;&lt;/code&gt; will be your best friend.&lt;/p&gt;
+
+&lt;h3 id=&quot;strike-tag&quot;&gt;Strike Tag&lt;/h3&gt;
+
+&lt;p&gt;This tag will let you &lt;strike&gt;strikeout text&lt;/strike&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;emphasize-tag&quot;&gt;Emphasize Tag&lt;/h3&gt;
+
+&lt;p&gt;The emphasize tag should &lt;em&gt;italicize&lt;/em&gt; text.&lt;/p&gt;
+
+&lt;h3 id=&quot;insert-tag&quot;&gt;Insert Tag&lt;/h3&gt;
+
+&lt;p&gt;This tag should denote &lt;ins&gt;inserted&lt;/ins&gt; text.&lt;/p&gt;
+
+&lt;h3 id=&quot;keyboard-tag&quot;&gt;Keyboard Tag&lt;/h3&gt;
+
+&lt;p&gt;This scarcely known tag emulates &lt;kbd&gt;keyboard text&lt;/kbd&gt;, which is usually styled like the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;code&amp;gt;&lt;/code&gt; tag.&lt;/p&gt;
+
+&lt;h3 id=&quot;preformatted-tag&quot;&gt;Preformatted Tag&lt;/h3&gt;
+
+&lt;p&gt;This tag styles large blocks of code.&lt;/p&gt;
+
+&lt;pre&gt;
+.post-title {
+	margin: 0 0 5px;
+	font-weight: bold;
+	font-size: 38px;
+	line-height: 1.2;
+	and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
+}
+&lt;/pre&gt;
+
+&lt;h3 id=&quot;quote-tag&quot;&gt;Quote Tag&lt;/h3&gt;
+
+&lt;p&gt;&lt;q&gt;Developers, developers, developers…&lt;/q&gt; –Steve Ballmer&lt;/p&gt;
+
+&lt;h3 id=&quot;strong-tag&quot;&gt;Strong Tag&lt;/h3&gt;
+
+&lt;p&gt;This tag shows &lt;strong&gt;bold text&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;subscript-tag&quot;&gt;Subscript Tag&lt;/h3&gt;
+
+&lt;p&gt;Getting our science styling on with H&lt;sub&gt;2&lt;/sub&gt;O, which should push the “2” down.&lt;/p&gt;
+
+&lt;h3 id=&quot;superscript-tag&quot;&gt;Superscript Tag&lt;/h3&gt;
+
+&lt;p&gt;Still sticking with science and Isaac Newton’s E = MC&lt;sup&gt;2&lt;/sup&gt;, which should lift the 2 up.&lt;/p&gt;
+
+&lt;h3 id=&quot;variable-tag&quot;&gt;Variable Tag&lt;/h3&gt;
+
+&lt;p&gt;This allows you to denote &lt;var&gt;variables&lt;/var&gt;.&lt;/p&gt;</content><author><name></name></author><category term="content" /><category term="css" /><category term="formatting" /><category term="html" /><category term="markup" /><summary type="html">A variety of common markup showing how the theme styles them.</summary></entry><entry><title type="html">Markup: Text Alignment</title><link href="/markup-text-alignment/" rel="alternate" type="text/html" title="Markup: Text Alignment" /><published>2013-01-09T00:00:00+09:00</published><updated>2013-01-09T00:00:00+09:00</updated><id>/markup-text-alignment</id><content type="html" xml:base="/markup-text-alignment/">&lt;h3 id=&quot;default&quot;&gt;Default&lt;/h3&gt;
+
+&lt;p&gt;This is a paragraph. It should not have any alignment of any kind. It should just flow like you would normally expect. Nothing fancy. Just straight up text, free flowing, with love. Completely neutral and not picking a side or sitting on the fence. It just is. It just freaking is. It likes where it is. It does not feel compelled to pick a side. Leave him be. It will just be better that way. Trust me.&lt;/p&gt;
+
+&lt;h3 id=&quot;left-align&quot;&gt;Left Align&lt;/h3&gt;
+
+&lt;p style=&quot;text-align: left;&quot;&gt;This is a paragraph. It is left aligned. Because of this, it is a bit more liberal in it’s views. It’s favorite color is green. Left align tends to be more eco-friendly, but it provides no concrete evidence that it really is. Even though it likes share the wealth evenly, it leaves the equal distribution up to justified alignment.&lt;/p&gt;
+
+&lt;h3 id=&quot;center-align&quot;&gt;Center Align&lt;/h3&gt;
+
+&lt;p style=&quot;text-align: center;&quot;&gt;This is a paragraph. It is center aligned. Center is, but nature, a fence sitter. A flip flopper. It has a difficult time making up its mind. It wants to pick a side. Really, it does. It has the best intentions, but it tends to complicate matters more than help. The best you can do is try to win it over and hope for the best. I hear center align does take bribes.&lt;/p&gt;
+
+&lt;h3 id=&quot;right-align&quot;&gt;Right Align&lt;/h3&gt;
+
+&lt;p style=&quot;text-align: right;&quot;&gt;This is a paragraph. It is right aligned. It is a bit more conservative in it’s views. It’s prefers to not be told what to do or how to do it. Right align totally owns a slew of guns and loves to head to the range for some practice. Which is cool and all. I mean, it’s a pretty good shot from at least four or five football fields away. Dead on. So boss.&lt;/p&gt;
+
+&lt;h3 id=&quot;justify-align&quot;&gt;Justify Align&lt;/h3&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;This is a paragraph. It is justify aligned. It gets really mad when people associate it with Justin Timberlake. Typically, justified is pretty straight laced. It likes everything to be in it’s place and not all cattywampus like the rest of the aligns. I am not saying that makes it better than the rest of the aligns, but it does tend to put off more of an elitist attitude.&lt;/p&gt;</content><author><name></name></author><category term="alignment" /><category term="content" /><category term="css" /><category term="markup" /><summary type="html">Default</summary></entry><entry><title type="html">Post: Image (Caption)</title><link href="/post-image-caption/" rel="alternate" type="text/html" title="Post: Image (Caption)" /><published>2010-08-07T00:00:00+09:00</published><updated>2010-08-07T00:00:00+09:00</updated><id>/post-image-caption</id><content type="html" xml:base="/post-image-caption/">&lt;figure&gt;
+  
+&lt;img src=&quot;/images/unsplash-gallery-image-3.jpg&quot; alt=&quot;Foo&quot; /&gt;
+
+  &lt;figcaption&gt;Photo from Unsplash.&lt;/figcaption&gt;
+&lt;/figure&gt;</content><author><name></name></author><category term="image" /><category term="Post Formats" /><summary type="html"></summary></entry><entry><title type="html">Post: Image (Linked with Caption)</title><link href="/post-image-linked-caption/" rel="alternate" type="text/html" title="Post: Image (Linked with Caption)" /><published>2010-08-06T00:00:00+09:00</published><updated>2010-08-06T00:00:00+09:00</updated><id>/post-image-linked-caption</id><content type="html" xml:base="/post-image-linked-caption/">&lt;figure&gt;
+  
+&lt;a href=&quot;https://flic.kr/p/8wzarA&quot;&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4134/4940462712_7c28420b27_b.jpg&quot; alt=&quot;Foo&quot; /&gt;&lt;/a&gt;
+
+  &lt;figcaption&gt;
+Stairs? Were we’re going we don’t need no stairs.
+&lt;/figcaption&gt;
+&lt;/figure&gt;</content><author><name></name></author><category term="image" /><category term="Post Formats" /><summary type="html"></summary></entry><entry><title type="html">Post: Video (YouTube)</title><link href="/post-video-youtube/" rel="alternate" type="text/html" title="Post: Video (YouTube)" /><published>2010-06-02T00:00:00+09:00</published><updated>2010-06-02T00:00:00+09:00</updated><id>/post-video-youtube</id><content type="html" xml:base="/post-video-youtube/">&lt;p&gt;YouTube video embed below.&lt;/p&gt;
+
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube-nocookie.com/embed/l2Of1-d5E5o?controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="Post Formats" /><summary type="html">YouTube video embed below.</summary></entry><entry><title type="html">Post: Link</title><link href="/post-link/" rel="alternate" type="text/html" title="Post: Link" /><published>2010-03-07T00:00:00+09:00</published><updated>2010-03-07T00:00:00+09:00</updated><id>/post-link</id><content type="html" xml:base="/post-link/">&lt;p&gt;This theme supports &lt;strong&gt;link posts&lt;/strong&gt;, made famous by John Gruber. To use, just add &lt;code class=&quot;highlighter-rouge&quot;&gt;link: http://url-you-want-linked&lt;/code&gt; to the post’s YAML front matter and you’re done.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;And this is how a quote looks.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Some &lt;a href=&quot;#&quot;&gt;link&lt;/a&gt; can also be shown.&lt;/p&gt;</content><author><name></name></author><category term="link" /><category term="Post Formats" /><summary type="html">This theme supports link posts, made famous by John Gruber. To use, just add link: http://url-you-want-linked to the post’s YAML front matter and you’re done.</summary></entry><entry><title type="html">Post: Quote</title><link href="/post-quote/" rel="alternate" type="text/html" title="Post: Quote" /><published>2010-02-05T00:00:00+09:00</published><updated>2010-02-05T00:00:00+09:00</updated><id>/post-quote</id><content type="html" xml:base="/post-quote/">&lt;blockquote&gt;
+  &lt;p&gt;Only one thing is impossible for God: To find any sense in any copyright law on the planet.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;cite&gt;&lt;a href=&quot;http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html&quot;&gt;Mark Twain&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><category term="Post Formats" /><category term="quote" /><summary type="html">Only one thing is impossible for God: To find any sense in any copyright law on the planet. Mark Twain</summary></entry><entry><title type="html">Suspicio? Bene … tunc ibimus? Quis uh … CONEXUS locus his diebus? Quisque semper aliquid videtur, in volutpat mauris. Nolo enim dicere. Vobis neque ab aliis. Ego feci memetipsum explicans. Gus mortuus est. Lorem opus habeo. Jackson Isai? Tu quoque … A te quidem a ante. Vos scitis quod blinking res Ive ‘been vocans super vos? Et conteram illud, et conteram hoc. Maledicant druggie excors. Iam hoc tu facere conatus sum ad te in omni tempore? Ludum mutavit. Verbum est ex. Et … sunt occid</title><link href="/edge-case-very-long-title/" rel="alternate" type="text/html" title="Suspicio? Bene ... tunc ibimus? Quis uh ... CONEXUS locus his diebus? Quisque semper aliquid videtur, in volutpat mauris. Nolo enim dicere. Vobis neque ab aliis. Ego feci memetipsum explicans. Gus mortuus est. Lorem opus habeo. Jackson Isai? Tu quoque ... A te quidem a ante. Vos scitis quod blinking res Ive 'been vocans super vos? Et conteram illud, et conteram hoc. Maledicant druggie excors. Iam hoc tu facere conatus sum ad te in omni tempore? Ludum mutavit. Verbum est ex. Et ... sunt occid" /><published>2009-10-05T00:00:00+09:00</published><updated>2009-10-05T00:00:00+09:00</updated><id>/edge-case-very-long-title</id><content type="html" xml:base="/edge-case-very-long-title/">&lt;p&gt;Check for long titles and how they might break a template.&lt;/p&gt;</content><author><name></name></author><category term="content" /><category term="css" /><category term="edge case" /><category term="html" /><category term="layout" /><category term="title" /><summary type="html">Check for long titles and how they might break a template.</summary></entry><entry><title type="html">Antidisestablishmentarianism</title><link href="/edge-case-title-should-not-overflow-the-content-area/" rel="alternate" type="text/html" title="Antidisestablishmentarianism" /><published>2009-10-05T00:00:00+09:00</published><updated>2009-10-05T00:00:00+09:00</updated><id>/edge-case-title-should-not-overflow-the-content-area</id><content type="html" xml:base="/edge-case-title-should-not-overflow-the-content-area/">&lt;h2 id=&quot;title-should-not-overflow-the-content-area&quot;&gt;Title should not overflow the content area&lt;/h2&gt;
+
+&lt;p&gt;A few things to check for:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Non-breaking text in the title, content, and comments should have no adverse effects on layout or functionality.&lt;/li&gt;
+  &lt;li&gt;Check the browser window / tab title.&lt;/li&gt;
+  &lt;li&gt;If you are a theme developer, check that this text does not break anything.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following CSS properties will help you support non-breaking text.&lt;/p&gt;
+
+&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;-ms-word-wrap&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;break-word&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;word-wrap&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;break-word&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="content" /><category term="css" /><category term="edge case" /><category term="html" /><category term="layout" /><category term="title" /><summary type="html">Title should not overflow the content area</summary></entry><entry><title type="html">Edge Case No Yaml Title</title><link href="/edge-case-no-yaml-title/" rel="alternate" type="text/html" title="Edge Case No Yaml Title" /><published>2009-09-05T00:00:00+09:00</published><updated>2009-09-05T00:00:00+09:00</updated><id>/edge-case-no-yaml-title</id><content type="html" xml:base="/edge-case-no-yaml-title/">&lt;p&gt;This post has no title specified in the YAML Front Matter. Jekyll should auto-generate a title from the filename.&lt;/p&gt;</content><author><name></name></author><category term="edge case" /><category term="layout" /><category term="title" /><summary type="html">This post has no title specified in the YAML Front Matter. Jekyll should auto-generate a title from the filename.</summary></entry></feed>
