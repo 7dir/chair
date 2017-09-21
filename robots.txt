@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: http://7dir.ru/chair//sitemap.xml
