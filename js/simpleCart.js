@@ -3,7 +3,7 @@
 
 	wojodesign.com
 	simplecartjs.org
-	http://github.com/wojodesign/simplecart-js
+	https://github.com/wojodesign/simplecart-js
 
 	VERSION 3.0.5
 
@@ -857,7 +857,7 @@
 				// be overwritten for customization
 				// btw, we are hiring at wojo design, and could
 				// use a great web designer. if thats you, you can
-				// get more info at http://wojodesign.com/now-hiring/
+				// get more info at https://wojodesign.com/now-hiring/
 				// or email me directly: brett@wojodesign.com
 				quantity: function (val) {
 					return isUndefined(val) ? parseInt(this.get("quantity", true) || 1, 10) : this.set("quantity", val);
@@ -1854,7 +1854,7 @@
 
 				try {
 					// If IE is used, use the trick by Diego Perini
-					// http://javascript.nwbox.com/IEContentLoaded/
+					// https://javascript.nwbox.com/IEContentLoaded/
 					document.documentElement.doScroll("left");
 				} catch (e) {
 					setTimeout(doScrollCheck, 1);
